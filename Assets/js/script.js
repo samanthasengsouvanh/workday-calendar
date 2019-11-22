@@ -1,8 +1,8 @@
 //function to display time and date at top of page
-
-function currentDay(moment().format("dddd, MMMM Do YYYY, h:mm:ss a");
-const currentDAy
-console.log("moment")
+function getDateAndTime(){
+    let dateAndTime = moment().format("dddd, MMMM Do YYYY, h:mm a");
+   dateElement.innerHTML = dateAndTime;
+   
 //get the element that the info goes into
 //decide what it should look like
 //and then update it
