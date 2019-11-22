@@ -13,6 +13,12 @@ displayDate();
 //create timeblocks with inputs and save buttons
 //loop and dynamically or hard code
 //add events to the submit button to save what is in the input to local storage
+
+function buttonEl(){
+    buttonEl = document.getElementById(button-addon2).addEventListener("click", function(){
+        console.log(save)
+    });
+}
 //get the value out of the local storage and populate input with the data
 //check color coordinator based on time moment
 //look at css for classes
