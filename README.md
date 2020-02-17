@@ -1,14 +1,23 @@
-# User Story
+# Workday Calendar
+
+## User Story
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
-# Business Context
+## Business Context
 
 Poor time management can result in missed meetings and deadlines or create the appearance of unprofessionalism. A daily planner allows employees to see their day at a glance, schedule time effectively, and improve productivity.
 
-# Deployed Link
+## Deployed Link
 
 https://samanthasengsouvanh.github.io/workday-calendar/
 
+## Author
+
+Samantha Sengsouvanh
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
